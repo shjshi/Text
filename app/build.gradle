@@ -1,5 +1,6 @@
 apply plugin: 'com.android.application'
 //在test1中第一次修改
+//第二次
 android {
     compileSdkVersion 22
     buildToolsVersion "22.0.1"
