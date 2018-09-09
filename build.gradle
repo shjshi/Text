@@ -1,5 +1,5 @@
 // Top-level build file where you can add configuration options common to all sub-projects/modules.
-
+//在test2中第一次修改
 buildscript {
     repositories {
         jcenter()
